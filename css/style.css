@@ -28,11 +28,13 @@ h2{
     color: #000000;
 }
 
-.jumbotron .app-btn{
+.jumbotron img.app-btn{
     width:30%;
     margin-right:10px; 
 }
 
-.demo {
-    width: 50%;
+img.demo {
+    width: 100%;
+    padding: 3px;
+    border: 1px solid #ccc;
 }
