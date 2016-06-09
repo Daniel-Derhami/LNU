@@ -8,7 +8,7 @@ body {
 .jumbotron{
     background: url(../img/Lnu-bg.jpg) no-repeat top center;
     color: #fff;
-    height:1422px;
+    height:490px;
     overflow: hidden;
     size: 50%;
     
@@ -29,6 +29,10 @@ h2{
 }
 
 .jumbotron .app-btn{
-    width:40%;
-    margin-right:30px; 
+    width:30%;
+    margin-right:10px; 
+}
+
+.demo {
+    width: 50%;
 }
