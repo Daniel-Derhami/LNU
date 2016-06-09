@@ -5,6 +5,9 @@ body {
 .em-text{
 	color: #1caa98 !important;
 }
+section{
+    padding: 40px 0 40px 0;
+}
 .jumbotron{
     background: url(../img/Lnu-bg.jpg) no-repeat top center;
     color: #fff;
@@ -37,4 +40,33 @@ img.demo {
     width: 100%;
     padding: 3px;
     border: 1px solid #ccc;
+}
+
+section#features{
+    background:url(../img/Lnu-bg2.jpg) no-repeat top;
+}
+
+section#features ul li{
+   font-size: 22px;
+   list-style: none;
+   line-height: 2.0em;
+}
+footer{
+    background:#FFFF00;
+    color:#000000;
+    padding:30px 0 20px 0;
+}
+
+footer li{
+    float: left;
+    padding: 0 10px 0 10px;
+     
+    list-style: none;
+}
+footer a{
+    color: #000000;
+}
+
+footer p{
+    float: right;
 }
